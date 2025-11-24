@@ -50,16 +50,6 @@
 			path = S25W12URLSessionUITests;
 			sourceTree = "<group>";
 		};
-		3FDCE1842ECD9C26002CA3C0 /* Model */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Model;
-			sourceTree = "<group>";
-		};
-		3FDCE1882ECD9DD8002CA3C0 /* Api */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Api;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,8 +81,6 @@
 			isa = PBXGroup;
 			children = (
 				3FDCE18C2ECD9F9D002CA3C0 /* .gitignore */,
-				3FDCE1882ECD9DD8002CA3C0 /* Api */,
-				3FDCE1842ECD9C26002CA3C0 /* Model */,
 				3FDCE15C2ECD9BAA002CA3C0 /* S25W12URLSession */,
 				3FDCE16A2ECD9BAB002CA3C0 /* S25W12URLSessionTests */,
 				3FDCE1742ECD9BAB002CA3C0 /* S25W12URLSessionUITests */,
@@ -127,8 +115,6 @@
 			);
 			fileSystemSynchronizedGroups = (
 				3FDCE15C2ECD9BAA002CA3C0 /* S25W12URLSession */,
-				3FDCE1842ECD9C26002CA3C0 /* Model */,
-				3FDCE1882ECD9DD8002CA3C0 /* Api */,
 			);
 			name = S25W12URLSession;
 			packageProductDependencies = (
